@@ -1,6 +1,6 @@
 # Liquid language package for CodeMirror 6
 
-Live demo: https://harttle.land/codemirror-lang-liquid/
+Live demo: https://harttle.com/codemirror-lang-liquid/
 
 ## Get Started
 
